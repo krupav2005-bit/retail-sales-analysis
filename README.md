@@ -27,6 +27,10 @@ This project focuses on analysing retail sales data using Microsoft Excel to ide
 - Interactive slicers for filtering data.
 - Pivot charts for visual analysis.
 
+## Dashboard Preview
+
+![Retail Sales Dashboard](dashboard.png)
+
 ## Key Insights
 - Electronics recorded the highest sales among the product categories.
 - Customers aged 26–35 represented the highest sales segment.
